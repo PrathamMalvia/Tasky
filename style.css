@@ -7,8 +7,11 @@ body {
     border-radius: 8px;
 }
 
-.input-group{
+.input-group {
     justify-content: center;
     width: 80%;
-   
+}
+
+.modal-title {
+    font-weight: bold;
 }
